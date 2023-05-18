@@ -55,7 +55,7 @@ JavaScript, Markdown
 
 Links below provide a functionality of webpage.
 
-[Heroku Link]()
+[Heroku Link](https://pwa-jate-text-editor-nm.herokuapp.com)
 
 ![](assets/images/Text_editor.png)
 
